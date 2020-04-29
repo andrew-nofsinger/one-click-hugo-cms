@@ -5,7 +5,7 @@ description: >-
   Brewing with a Chemise probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
   that's worth the effort every time.
-image: /img/blog-Chemise.jpg
+image: https://andrewnofsinger.com/wp-content/uploads/2018/04/figure19-e1522800339670.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemise at home. The Chemise Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemise Corporation in Chicopee, Massachusetts\*.
